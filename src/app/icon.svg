@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="rocketGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7A00"/>
+      <stop offset="100%" stop-color="#FF334B"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#070913" stroke="#FF5500" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M20 6.5C20 6.5 13.5 7.5 10.5 12.5C8.5 15.8 9 18.5 9 18.5L13.5 23C13.5 23 16.2 23.5 19.5 21.5C24.5 18.5 25.5 12 25.5 12L20 6.5Z" fill="none" stroke="url(#rocketGrad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="18" cy="14" r="1.75" fill="#00E5FF"/>
+  <path d="M8 24L5.5 26.5" stroke="#FF5500" stroke-width="2" stroke-linecap="round"/>
+  <path d="M9.5 20.5L7 22" stroke="#FFAA00" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M11.5 25L10 22.5" stroke="#FFAA00" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
